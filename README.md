@@ -1,11 +1,11 @@
-# Welcome to my GitHub!
+# 👋 Welcome to my GitHub!
 
 I'm **Krish Kataria**
 
 🎓 Computer Engineering Student @ Thapar Institute
 
-💻 MERN Developer
+💻 MERN Stack Developer
 
 🤖 Machine Learning Enthusiast
 
-🚀 Solved 580+ LeetCode Problems
+🧩 Solved **500+ LeetCode** Problems
